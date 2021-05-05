@@ -1,4 +1,4 @@
-# Project_Pizza
+# [Project_Pizza](https://project-pizza-pcs.netlify.app/)
 This project was created to simulate a pizzeria website. 
 It was done only with JavaScript, HTML and CSS
 
